@@ -1,0 +1,3 @@
+/Users/bogdanmica/Desktop/sem2.an1/ATP/seminar2-matrice/cmake-build-debug/CMakeFiles/seminar2_matrice.dir
+/Users/bogdanmica/Desktop/sem2.an1/ATP/seminar2-matrice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bogdanmica/Desktop/sem2.an1/ATP/seminar2-matrice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
